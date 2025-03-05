@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  min-height: 100vh;
+  background: url("../assets/backgrounds/main.jpg") #4c7555;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  color: white;
+  font-family: "Jost", sans-serif;
+  font-weight: 400;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
