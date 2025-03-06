@@ -1,6 +1,6 @@
 # 🕌 E-Tasbih
 
-🚀 **E-Tasbih** is an **online tasbih counter** that allows users to track and count their zikr (remembrances). This project is built **only with HTML, CSS (Tailwind CSS), and JavaScript**.
+🚀 **E-Tasbih** is an **online tasbih counter** that allows users to track and count their zikr (remembrances). This project is built **only with HTML, CSS & JavaScript**.
 
 ![Project Preview](https://etasbih.netlify.app/public/preview.jpg)
 
@@ -24,8 +24,8 @@
 
 ## 🛠 **Technologies Used**
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **JavaScript**
 
 ---
@@ -38,26 +38,22 @@ e-tasbih/
 │── src/
 │   ├── assets/
 │   ├── scripts/
-│   │   ├── index.js
 │   ├── styles/
-│   │   ├── base.css
-│   │   ├── components.css
-│   │   ├── index.css
 │── index.html
 ```
 
 ---
 
-## 🚀 How to Use
+## 🚀 **How to Use**
 
-### **Clone the repository**:
+### 1️⃣ **Clone the repository**:
 
 ```sh
 git clone https://github.com/yaxyobekuz/etasbih.git
 cd etasbih
 ```
 
-### 2️⃣ Open the Project
+### 2️⃣ **Open the Project**
 
 Simply open `index.html` in your browser to view the project.
 
